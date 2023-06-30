@@ -1,12 +1,9 @@
 package com.dailycodelearner;
 
-import com.dailycodelearner.lambda.LambdaExample;
-
-import java.sql.SQLOutput;
 import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
+
 
 public class Main {
     public static void main(String a[]) {
